@@ -1,5 +1,12 @@
 # TimeCode
 TimeCode, an updating text file that has the current time in 24 hour format, all done completely in NodeJS. Perfect alternative to Snaz's time feature, which currently only works on Windows. TimeCode works on any operating system compatible with NodeJS.
+# Features
+When executed with `node index.js` it outputs the current time in 24 hour format including minutes on the top and bottom line, the date on the second line, and the date with time and seconds on the 3rd line, on both the terminal and the `time.txt` file. <br />
+For example <br />
+`13:45`<br />
+`2020-09-13`<br />
+`2020-09-13 13:45:22`<br />
+`13:45`<br />
 # Download
 
 To download the source code, make sure you have NodeJS installed on your system. <br /> <br />
